@@ -1,0 +1,5 @@
+numpy 
+soundfile 
+tqdm
+pandas
+numberpartitioning
